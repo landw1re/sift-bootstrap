@@ -211,7 +211,6 @@ bkhive
 bless
 blt
 build-essential
-bulk-extractor
 cabextract
 ccrypt
 clamav
