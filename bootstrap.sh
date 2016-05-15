@@ -316,7 +316,6 @@ nikto
 ntopng
 okular
 open-iscsi
-openjdk-6-jdk
 ophcrack
 ophcrack-cli
 outguess
