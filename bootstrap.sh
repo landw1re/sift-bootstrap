@@ -300,8 +300,6 @@ libvshadow-python
 libvshadow-tools
 libxml2-dev
 maltegoce
-regripper
-mantaray
 md5deep
 mongodb-clients
 mongodb-server
@@ -382,8 +380,6 @@ vim
 virtuoso-minimal
 vmfs-tools
 winbind
-wine
-wireshark
 xdot
 xfsprogs
 xmount
