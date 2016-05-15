@@ -300,6 +300,7 @@ libvshadow-python
 libvshadow-tools
 libxml2-dev
 maltegoce
+regripper
 mantaray
 md5deep
 mongodb-clients
@@ -349,7 +350,6 @@ radare-gtk
 radare2
 rar
 readpst
-regripper
 rsakeyfind
 safecopy
 samba
